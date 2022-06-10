@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-09T21:38:06.202811Z</date>
+  <millis>1654810686202</millis>
+  <nanos>811000</nanos>
+  <sequence>0</sequence>
+  <logger>my logger</logger>
+  <level>INFO</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an information message</message>
+</record>
+<record>
+  <date>2022-06-09T21:38:06.223303Z</date>
+  <millis>1654810686223</millis>
+  <nanos>303000</nanos>
+  <sequence>1</sequence>
+  <logger>my logger</logger>
+  <level>WARNING</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-09T21:38:24.624201Z</date>
+  <millis>1654810704624</millis>
+  <nanos>201000</nanos>
+  <sequence>0</sequence>
+  <logger>my logger</logger>
+  <level>INFO</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an information message</message>
+</record>
+<record>
+  <date>2022-06-09T21:38:24.642969Z</date>
+  <millis>1654810704642</millis>
+  <nanos>969000</nanos>
+  <sequence>1</sequence>
+  <logger>my logger</logger>
+  <level>WARNING</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-10T06:31:04.499548Z</date>
+  <millis>1654842664499</millis>
+  <nanos>548000</nanos>
+  <sequence>0</sequence>
+  <logger>my logger</logger>
+  <level>INFO</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an information message</message>
+</record>
+<record>
+  <date>2022-06-10T06:31:04.520901Z</date>
+  <millis>1654842664520</millis>
+  <nanos>901000</nanos>
+  <sequence>1</sequence>
+  <logger>my logger</logger>
+  <level>WARNING</level>
+  <class>com.sparta.fw.starter.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning message</message>
+</record>
+</log>
