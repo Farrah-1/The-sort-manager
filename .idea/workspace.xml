@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d49a1ce-1888-48e0-89b0-47e33e11733d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/fw/sorters/binarytree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/fw/sorters/binarytree/BinaryTreeInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/fw/sorters/binarytree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/fw/sorters/binarytree/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/fw/starter/SortManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d49a1ce-1888-48e0-89b0-47e33e11733d" name="Changes" comment="Uploading Sort Manager Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654519110449</updated>
     </task>
+    <task id="LOCAL-00001" summary="Uploading Sort Manager Project">
+      <created>1654877849333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654877849333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,5 +174,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uploading Sort Manager Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading Sort Manager Project" />
   </component>
 </project>
