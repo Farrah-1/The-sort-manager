@@ -19,19 +19,20 @@ class SortTester {
     @Test
     @DisplayName("Does it sort - Insertion Sort")
     void doesItSortInsertionSort() {
-
+        System.out.println("Unsorted Array: " + Arrays.toString(unsortedArray));
         InsertionSort.insertionSort(unsortedArray);
         Assertions.assertEquals(Arrays.toString(sortedArray), Arrays.toString(unsortedArray));
 
+        System.out.println("Sorted Array: " + Arrays.toString(sortedArray));
     }
 
     @Test
     @DisplayName("Does it sort - Bubble Sort")
     void doesItSortBubbleSort() {
-
+        System.out.println("Unsorted Array: " + Arrays.toString(unsortedArray));
         BubbleSort.Bubble(unsortedArray);
         Assertions.assertEquals(Arrays.toString(sortedArray), Arrays.toString(unsortedArray));
-
+        System.out.println("Sorted Array: " + Arrays.toString(sortedArray));
     }
 
     @Test
@@ -167,9 +168,6 @@ class SortTester {
         BubbleSort.Bubble(unsortedLarge);
         Assertions.assertEquals(Arrays.toString(sortedLarge), Arrays.toString(unsortedLarge));
     }
-
-
-
 
 
 }
